@@ -16,6 +16,7 @@ The project is under development. Next updates will focus on the following tasks
 - [ ] Local podium
 - [ ] Winner screen
 - [ ] Home screen
+- [ ] Add obstacles
 
 ## 🚨 Important
 
